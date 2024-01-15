@@ -37,7 +37,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Review Links: 
 
-Deployed Application: 
+Deployed Application: https://marisol514.github.io/KeySwift/
 
 URl GitHub Repository:  https://github.com/Marisol514/KeySwift
 
@@ -52,6 +52,8 @@ Worked with the following classmates in a discord meeting:
 * Ryan Sarath
 
 ## Resources: 
+
+XpertLearning Assisant - BCS
 
 JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference 
 
