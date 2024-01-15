@@ -41,4 +41,56 @@ Deployed Application:
 
 URl GitHub Repository:  https://github.com/Marisol514/KeySwift
 
+## Acknowledgements:
+Worked with the following classmates in a discord meeting:
+* Amanda Vilwock
+* Daniel Merino
+* Jacob Ferraro
+* Diala Obeid
+* Nimo Shirille
+* Sarah Davila
+* Ryan Sarath
 
+## Resources: 
+
+JavaScript Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference 
+
+var: https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
+
+function: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
+
+Strict Equality: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality 
+
+Binary Logival Operators  OR - ||: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR
+
+isNaN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+
+alert: https://developer.mozilla.org/en-US/docs/Web/API/Window/alert
+
+return: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return 
+
+confirm () method: https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
+
+Logical NOT (!): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
+
+Logical AND (&&): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND 
+
+generateRandomPassword: https://dev.to/code_mystery/random-password-generator-using-javascript-6a 
+
+prompt: https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
+
+parseInt(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+
+Addtion Assignments (+=): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment
+
+for: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+
+Loop: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+
+      https://stackoverflow.com/questions/49809601/best-practice-javascript-for-loop
+
+Math.floor(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+
+Math.Random: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+String.Prototype.charAt(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
